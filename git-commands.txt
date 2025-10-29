@@ -3,6 +3,7 @@ git config --global user.email
 git init
 git status
 git add <filename>
+git commit -m <commit desciption>
 git diff
 git checkout
 git log
@@ -12,3 +13,8 @@ git branch
 git branch -d/D
 git merge
 git reset --mixed / hard / soft <commit>
+git remote add origin <url>
+git remote -v
+git remote remove origin / git remote rm origin
+git push origin <branch>
+git pull
