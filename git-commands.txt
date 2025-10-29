@@ -1,0 +1,13 @@
+git config --global user.name
+git config --global user.email
+git init
+git status
+git add filename
+git checkout
+git log
+git log --online
+git log --onilne --all graph
+git branch
+git branch -d/D
+git merge
+git reset --mixed / hard / soft <commit>

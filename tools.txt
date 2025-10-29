@@ -1,0 +1,13 @@
+ci/cd -> github actions / circle ci / argo ci / jenkins
+storage: aws s3 / azure blog / google cloud storage
+model testing -> 
+dvc/mlflow
+ops -> docker, kubernetes, 
+monitoring -> Evidently AI / Prometheus / Grafana / splunk
+
+entire mlops -> aws sagemaker / google vertex AI / azure ml
+
+Extra: snowflake, Kubeflow, Apache Airflow, Comet ML, Metaflow
+aws:   glue, athena, redshift, bedrock, redshift, rekognition
+azure: azure devOps, azure AI services, kubernetes service, container instances, data lake storage, azure cache, synapse analytics, azure data dactory, azure monitor
+gcp:   google kubernetes engine, bigquery, vision AI, cloud AutoML, 
