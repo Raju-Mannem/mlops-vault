@@ -2,7 +2,8 @@ git config --global user.name
 git config --global user.email
 git init
 git status
-git add filename
+git add <filename>
+git diff
 git checkout
 git log
 git log --online
